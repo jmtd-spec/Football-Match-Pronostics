@@ -1,0 +1,29 @@
+{
+  "name": "football-match-pronostics",
+  "version": "1.0.0",
+  "description": "This is a React-based web application for selling daily football match predictions. It features two distinct packages, a dynamic sales page with a countdown timer, a checkout system, and an admin panel for managing predictions.",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmtd-spec/Football-Match-Pronostics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmtd-spec/Football-Match-Pronostics/issues"
+  },
+  "homepage": "https://github.com/jmtd-spec/Football-Match-Pronostics#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "vite": "^7.1.6"
+  }
+}
