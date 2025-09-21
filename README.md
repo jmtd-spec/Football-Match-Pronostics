@@ -1,6 +1,4 @@
 # Football-Match-Pronostics
-echo "# Football-Match-Pronostics" >> README.md
-Football Predictions Sales Website
 This is a React-based web application for selling daily football match predictions. It features two distinct packages, a dynamic sales page with a countdown timer, a checkout system, and an admin panel for managing predictions.
 
 Features
